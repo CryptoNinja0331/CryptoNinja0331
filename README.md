@@ -1,7 +1,7 @@
 # Hi there 👋
 <br>
 
-# <div align="center"> &nbsp; Frontend | Backend | Blockchain Developer &nbsp; </div>
+# <div align="center"> &nbsp; Full Stack| AI | Blockchain Developer &nbsp; </div>
 <br>
 
 <!-- 
