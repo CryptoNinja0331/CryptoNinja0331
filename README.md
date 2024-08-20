@@ -26,60 +26,8 @@
 ### 👑 NFTMarketPlace 
 ### 🔱 Chains : Solana
 
-<a href="https://solport.io/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/9c399017-ef50-431a-9589-950131289854" width="1200px" />
 
-# 📁  Repositories
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Cross-chain
-
-<a href="https://github.com/LuckyDev0331/Ollo_station">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Ollo_station&theme=vue-dark&description_lines_count=7" />
-</a>
-<a href="https://github.com/LuckyDev0331/Tusima_bridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Tusima_bridge&theme=vue-dark&description_lines_count=4" />
-</a>
-<a href="https://github.com/LuckyDev0331/Pigeon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Pigeon&theme=vue-dark&description_lines_count=4" />
-</a>
-<a href="https://github.com/LuckyDev0331/BSC_layer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=BSC_layer&theme=vue-dark&description_lines_count=4" />
-</a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> dApps
-
-<a href="https://github.com/LuckyDev0331/Next_dappTemplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Next_dappTemplate&theme=vue-dark&description_lines_count=5" />
-</a>
-<a href="https://github.com/LuckyDev0331/CryptoCocks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=CryptoCocks&theme=vue-dark&description_lines_count=5" />
-</a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Go
-
-<a href="https://github.com/LuckyDev0331/Go_gonesis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_gonesis&theme=vue-dark&description_lines_count=5" />
-</a>
-<a href="https://github.com/LuckyDev0331/Go_Micro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Go_Micro&theme=vue-dark&description_lines_count=4" />
-</a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Rust
-
-<a href="https://github.com/LuckyDev0331/AWS_auth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=AWS_auth&theme=vue-dark&description_lines_count=4" />
-</a>
-<a href="https://github.com/LuckyDev0331/Rust_bors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Rust_bors&theme=vue-dark&description_lines_count=5" />
-</a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="50" height="50" /> Solidity
-
-<a href="https://github.com/LuckyDev0331/Solidity_contracts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Solidity_contracts&theme=vue-dark&description_lines_count=5" />
-</a>
-<a href="https://github.com/LuckyDev0331/Contract_x509">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innotech0926&repo=Contract_x509&theme=vue-dark&description_lines_count=5" />
-</a>
 
 
 
