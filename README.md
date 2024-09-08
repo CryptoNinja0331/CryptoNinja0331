@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <h1>Overview of My Repositories</h1>
- </div>
+</div>
 <br/>
 
 <!-- Full Stack Web Development Repository Overview -->
@@ -35,7 +35,7 @@
 <br/>
 
 <!-- Blockchain & Web3 Development Repository Overview -->
-
+#
 <h2>Blockchain & Web3 Development</h2>
 <br/>
 <section>
@@ -56,7 +56,7 @@
 <br/>
 
 <!-- OpenAI Integration Respository Overview -->
-
+#
 <h2>OpenAI Integration</h2>
 <br/>
 <div>
