@@ -4,18 +4,22 @@
 <br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
 <br/>
 
+
+<!-- My All Repositories Overview -->
 #
 
 <div align="center"> 
   <h1>Overview of My Repositories</h1>
  </div>
 <br/>
+
+<!-- Full Stack Web Development Repository Overview -->
+
 <h2>Full Stack Web Development</h2>
 <br/>
 <div>
     <table align="left">
       <th>
-        <td>No</td>
         <td>Project Name</td>
         <td>Category</td>
         <td>Skill Set</td>
@@ -28,7 +32,48 @@
       </tr>
     </table>
 </div>
+<br/>
 
+<!-- Blockchain & Web3 Development Repository Overview -->
+
+<h2>Blockchain & Web3 Development</h2>
+<br/>
+<section>
+    <table align="left">
+      <th>
+        <td>Project Name</td>
+        <td>Category</td>
+        <td>Skill Set</td>
+      </th>
+      <tr>
+        <td> 1 </td>
+        <td> Project Name </td>
+        <td>Category</td>
+        <td>Skill Set</td>
+      </tr>
+    </table>
+</section>
+<br/>
+
+<!-- OpenAI Integration Respository Overview -->
+
+<h2>OpenAI Integration</h2>
+<br/>
+<div>
+    <table align="left">
+      <th>
+        <td>Project Name</td>
+        <td>Category</td>
+        <td>Skill Set</td>
+      </th>
+      <tr>
+        <td> 1 </td>
+        <td> Project Name </td>
+        <td>Category</td>
+        <td>Skill Set</td>
+      </tr>
+    </table>
+</div>
 #
 
 <table align="center">
