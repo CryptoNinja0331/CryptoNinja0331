@@ -57,6 +57,7 @@
 
 <!-- OpenAI Integration Respository Overview -->
 #
+
 <h2>OpenAI Integration</h2>
 <br/>
 <div>
@@ -74,6 +75,7 @@
       </tr>
     </table>
 </div>
+
 #
 
 <table align="center">
