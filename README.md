@@ -9,13 +9,6 @@
   <h1>Overview of My Repositories</h1>
 </div>
 
-## sample table
-
-| No | Project Name | Category | Skill Set |
-|----|--------------|----------|-----------|
-| 1  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
-| 2  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
-
 ## Full Stack Web Development
 
 | No | Project Name |Skill Set |
