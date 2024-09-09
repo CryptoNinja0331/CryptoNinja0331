@@ -1,4 +1,4 @@
-# <div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
+# <div align="center">💫 Full Stack | Blockchain | Generative AI Bot Developer 💫 &nbsp;</div>
 
 <br/>🤝 I’m finding a Job to challenge "Real" world problems. I bring you the best solution for your idea!
 <br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
@@ -9,26 +9,33 @@
   <h1>Overview of My Repositories</h1>
 </div>
 
+## sample table
+
+| No | Project Name | Category | Skill Set |
+|----|--------------|----------|-----------|
+| 1  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) <br> Solidity <br> ![JavaScript](https://skillicons.dev/icons?i=javascript) <br> JavaScript <br> ![Python](https://skillicons.dev/icons?i=python) <br> Python |
+| 2  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) <br> Solidity <br> ![JavaScript](https://skillicons.dev/icons?i=javascript) <br> JavaScript <br> ![Python](https://skillicons.dev/icons?i=python) <br> Python |
+
 ## Full Stack Web Development
 
-| Project Name | Category | Skill Set |
-|--------------|----------|-----------|
-| Project Name 1 | Category 1 | Skill Set 1 |
-| Project Name 2 | Category 2 | Skill Set 2 |
+| No | Project Name | Category | Skill Set |
+|----|--------------|----------|-----------|
+| 1  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) <br> Solidity |
+| 2  | Project Name 2 | Category 2 | Skill Set 2 |
 
-## Data Science Projects
+## Blockchain Projects
 
-| Project Name | Category | Skill Set |
-|--------------|----------|-----------|
-| Data Analysis Project 1 | Analysis | Python, Pandas |
-| Machine Learning Model 1 | Machine Learning | Python, Scikit-Learn |
+| No | Project Name | Category | Skill Set |
+|----|--------------|----------|-----------|
+| 1  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) <br> Solidity |
+| 2  | Project Name 2 | Category 2 | Skill Set 2 |
 
-## Mobile Development Projects
+## Generative AI Projects
 
-| Project Name | Category | Skill Set |
-|--------------|----------|-----------|
-| Mobile App 1 | iOS | Swift, Xcode |
-| Mobile App 2 | Android | Java, Android Studio |
+ | No | Project Name | Category | Skill Set |
+|--------------|----------|-----------| -----------|
+| Project Name 1 | Category 1 | Skill Set 1 | Skill Set 1 |
+| Project Name 2 | Category 2 | Skill Set 2 | Skill Set 2 |
 #
 
 <table align="center">
