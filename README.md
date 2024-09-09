@@ -20,8 +20,22 @@
 
 | No | Project Name | Category | Skill Set |
 |----|--------------|----------|-----------|
-| 1  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) <br> Solidity |
-| 2  | Project Name 2 | Category 2 | Skill Set 2 |
+| 1  | [Front End Travel Landing Page] (https://github.com/CryptoNinja0331/TravLog) | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 2  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 3  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 4  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 5  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 6  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 7  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 8  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 9  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 10  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 11  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 12  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 13  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 14  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 15  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 16  | Project Name 1 | Category 1 | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
 
 ## Blockchain Projects
 
