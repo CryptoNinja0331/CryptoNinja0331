@@ -4,77 +4,91 @@
 <br/>💬 Ask me about React, Next.js, Solidity, Solana, Rust, CSS, DEFI, NFT, WEB3, JS/TS, CrossChain and Life-Science related topics
 <br/>
 
-
 <!-- My All Repositories Overview -->
-#
-
 <div align="center"> 
   <h1>Overview of My Repositories</h1>
 </div>
-<br/>
 
 <!-- Full Stack Web Development Repository Overview -->
-
-<h2>Full Stack Web Development</h2>
-<br/>
 <div>
-    <table align="left">
-      <th>
-        <td>Project Name</td>
-        <td>Category</td>
-        <td>Skill Set</td>
-      </th>
-      <tr>
-        <td> 1 </td>
-        <td> Project Name </td>
-        <td>Category</td>
-        <td>Skill Set</td>
-      </tr>
+    <h2>Full Stack Web Development</h2>
+    <table align="left" border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Project Name</th>
+          <th>Category</th>
+          <th>Skill Set</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Project Name 1</td>
+          <td>Category 1</td>
+          <td>Skill Set 1</td>
+        </tr>
+        <tr>
+          <td>Project Name 2</td>
+          <td>Category 2</td>
+          <td>Skill Set 2</td>
+        </tr>
+        <!-- Add more rows as needed -->
+      </tbody>
     </table>
 </div>
-<br/>
 
-<!-- Blockchain & Web3 Development Repository Overview -->
-#
-<h2>Blockchain & Web3 Development</h2>
-<br/>
-<section>
-    <table align="left">
-      <th>
-        <td>Project Name</td>
-        <td>Category</td>
-        <td>Skill Set</td>
-      </th>
-      <tr>
-        <td> 1 </td>
-        <td> Project Name </td>
-        <td>Category</td>
-        <td>Skill Set</td>
-      </tr>
-    </table>
-</section>
-<br/>
-
-<!-- OpenAI Integration Respository Overview -->
-#
-
-<h2>OpenAI Integration</h2>
-<br/>
+<!-- Data Science Repository Overview -->
 <div>
-    <table align="left">
-      <th>
-        <td>Project Name</td>
-        <td>Category</td>
-        <td>Skill Set</td>
-      </th>
-      <tr>
-        <td> 1 </td>
-        <td> Project Name </td>
-        <td>Category</td>
-        <td>Skill Set</td>
-      </tr>
+    <h2>Data Science Projects</h2>
+    <table align="left" border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Project Name</th>
+          <th>Category</th>
+          <th>Skill Set</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Data Analysis Project 1</td>
+          <td>Analysis</td>
+          <td>Python, Pandas</td>
+        </tr>
+        <tr>
+          <td>Machine Learning Model 1</td>
+          <td>Machine Learning</td>
+          <td>Python, Scikit-Learn</td>
+        </tr>
+        <!-- Add more rows as needed -->
+      </tbody>
     </table>
 </div>
+
+<!-- Mobile Development Repository Overview -->
+<div>
+    <h2>Mobile Development Projects</h2>
+    <table align="left" border="1" cellpadding="5" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Project Name</th>
+          <th>Category</th>
+          <th>Skill Set</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Mobile App 1</td>
+          <td>iOS</td>
+          <td>Swift, Xcode</td>
+        </tr>
+        <tr>
+          <td>Mobile App 2</td>
+          <td>Android</td>
+          <td>Java, Android Studio</td>
+        </tr>
+        <!-- Add more rows as needed -->
+      </tbody>
+    </table>
+</div> 
 
 #
 
