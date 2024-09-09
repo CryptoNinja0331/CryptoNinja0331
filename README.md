@@ -178,8 +178,8 @@
 | No | Project Name | Skill Set |
 |----|--------------| -----------|
 | 1  | Multiple PDFs Streamlit Web App (https://github.com/CryptoNinja0331/S-Multi-PDF-Chatbot) | ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) |
-| 2  | IX Platform  (https://github.com/CryptoNinja0331/ix)| ![TypeScript](https://skillicons.dev/icons?i=solidity)  ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker)  |
-| 3  | Better ChatGPT (https://github.com/CryptoNinja0331/chatbot) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 2  | IX Platform  (https://github.com/CryptoNinja0331/ix)| ![TypeScript](https://skillicons.dev/icons?i=typescript)  ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker)  |
+| 3  | Better ChatGPT (https://github.com/CryptoNinja0331/chatbot) | ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
 | 4  | Meet SAMANTHA (Using Social Agi) (https://github.com/CryptoNinja0331/socialagi-ex-webapp) | ![React](https://skillicons.dev/icons?i=rust) ![Typescript](https://skillicons.dev/icons?i=typescript) |
 
 
