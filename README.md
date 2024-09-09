@@ -143,21 +143,21 @@
 
 ## Full Stack Web Development
 
-| No | Project Name | Category | Skill Set |
-|----|--------------|----------|-----------|
-| 1  | Front End Travel Landing Page (https://github.com/CryptoNinja0331/TravLog) | Landing Page | ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
-| 2  | Vue 3 Image Editor (https://github.com/CryptoNinja0331/VueImageEditor) | Web App | ![Vue](https://skillicons.dev/icons?i=vue) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
-| 3  | HTML Canvas Project (https://github.com/CryptoNinja0331/HTML5-canvas-projects) | Category 1 | ![HTML](https://skillicons.dev/icons?i=html) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
-| 4  | Whatsapp Extension (https://github.com/CryptoNinja0331/WhatsApp_Extension_Service) | Browser Extension | ![Vue](https://skillicons.dev/icons?i=vue) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) |
-| 5  | Todo list App (https://github.com/CryptoNinja0331/ToDo-list-App) | Web App | ![Django](https://skillicons.dev/icons?i=django) ![Python](https://skillicons.dev/icons?i=python) |
-| 6  | Saas Blog (https://github.com/CryptoNinja0331/next-saas-blog)| Saas | ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
-| 7  | Dapp Template (https://github.com/CryptoNinja0331/Next_dappTemplate) | Web App | ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![CSS](https://skillicons.dev/icons?i=css) |
-| 8  | Go Micro Boilerplate (https://github.com/CryptoNinja0331/Go_Micro) | Web App | ![Go](https://skillicons.dev/icons?i=go) ![Docker](https://skillicons.dev/icons?i=docker)|
-| 9  | Weather Displayer (https://github.com/CryptoNinja0331/weather-app) | Web & Mobile App | ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
-| 10  | Text Editor (https://github.com/CryptoNinja0331/text-utility-app)| Web App | ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
-| 11  | Notes App (https://vaheedsk36.github.io/react-notes-app/)|  Web App | ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TailwindCss](https://skillicons.dev/icons?i=tailwindcss) |
-| 12  | Vuetify3 Template (https://github.com/CryptoNinja0331/Vuetify3_Template) | Web App | ![Vue3](https://skillicons.dev/icons?i=vue) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Scss](https://skillicons.dev/icons?i=scss) |
-| 13  | Shopify Landing Page (https://github.com/CryptoNinja0331/react-shopify-landing)| Web App | ![React](https://skillicons.dev/icons?i=react) ![CSS](https://skillicons.dev/icons?i=css) ![AWS](https://skillicons.dev/icons?i=aws) |
+| No | Project Name | Skill Set |
+|----|--------------|-----------|
+| 1  | Front End Travel Landing Page (https://github.com/CryptoNinja0331/TravLog) | ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
+| 2  | Vue 3 Image Editor (https://github.com/CryptoNinja0331/VueImageEditor) | ![Vue](https://skillicons.dev/icons?i=vue) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
+| 3  | HTML Canvas Project (https://github.com/CryptoNinja0331/HTML5-canvas-projects) | ![HTML](https://skillicons.dev/icons?i=html) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
+| 4  | Whatsapp Extension (https://github.com/CryptoNinja0331/WhatsApp_Extension_Service) | ![Vue](https://skillicons.dev/icons?i=vue) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) |
+| 5  | Todo list App (https://github.com/CryptoNinja0331/ToDo-list-App) | ![Django](https://skillicons.dev/icons?i=django) ![Python](https://skillicons.dev/icons?i=python) |
+| 6  | Saas Blog (https://github.com/CryptoNinja0331/next-saas-blog)| ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
+| 7  | Dapp Template (https://github.com/CryptoNinja0331/Next_dappTemplate) | ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![CSS](https://skillicons.dev/icons?i=css) |
+| 8  | Go Micro Boilerplate (https://github.com/CryptoNinja0331/Go_Micro) | ![Go](https://skillicons.dev/icons?i=go) ![Docker](https://skillicons.dev/icons?i=docker)|
+| 9  | Weather Displayer (https://github.com/CryptoNinja0331/weather-app) | ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
+| 10  | Text Editor (https://github.com/CryptoNinja0331/text-utility-app)| ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![CSS](https://skillicons.dev/icons?i=css) |
+| 11  | Notes App (https://vaheedsk36.github.io/react-notes-app/)| ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TailwindCss](https://skillicons.dev/icons?i=tailwindcss) |
+| 12  | Vuetify3 Template (https://github.com/CryptoNinja0331/Vuetify3_Template) | ![Vue3](https://skillicons.dev/icons?i=vue) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Scss](https://skillicons.dev/icons?i=scss) |
+| 13  | Shopify Landing Page (https://github.com/CryptoNinja0331/react-shopify-landing)| ![React](https://skillicons.dev/icons?i=react) ![CSS](https://skillicons.dev/icons?i=css) ![AWS](https://skillicons.dev/icons?i=aws) |
 
 
 ## Blockchain Projects
