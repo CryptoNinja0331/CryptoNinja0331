@@ -9,87 +9,26 @@
   <h1>Overview of My Repositories</h1>
 </div>
 
-<!-- Full Stack Web Development Repository Overview -->
-<div>
-    <h2>Full Stack Web Development</h2>
-    <table align="left" border="1" cellpadding="5" cellspacing="0">
-      <thead>
-        <tr>
-          <th>Project Name</th>
-          <th>Category</th>
-          <th>Skill Set</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Project Name 1</td>
-          <td>Category 1</td>
-          <td>Skill Set 1</td>
-        </tr>
-        <tr>
-          <td>Project Name 2</td>
-          <td>Category 2</td>
-          <td>Skill Set 2</td>
-        </tr>
-        <!-- Add more rows as needed -->
-      </tbody>
-    </table>
-</div>
+## Full Stack Web Development
 
-<!-- Data Science Repository Overview -->
-<div>
-    <h2>Data Science Projects</h2>
-    <table align="left" border="1" cellpadding="5" cellspacing="0">
-      <thead>
-        <tr>
-          <th>Project Name</th>
-          <th>Category</th>
-          <th>Skill Set</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Data Analysis Project 1</td>
-          <td>Analysis</td>
-          <td>Python, Pandas</td>
-        </tr>
-        <tr>
-          <td>Machine Learning Model 1</td>
-          <td>Machine Learning</td>
-          <td>Python, Scikit-Learn</td>
-        </tr>
-        <!-- Add more rows as needed -->
-      </tbody>
-    </table>
-</div>
+| Project Name | Category | Skill Set |
+|--------------|----------|-----------|
+| Project Name 1 | Category 1 | Skill Set 1 |
+| Project Name 2 | Category 2 | Skill Set 2 |
 
-<!-- Mobile Development Repository Overview -->
-<div>
-    <h2>Mobile Development Projects</h2>
-    <table align="left" border="1" cellpadding="5" cellspacing="0">
-      <thead>
-        <tr>
-          <th>Project Name</th>
-          <th>Category</th>
-          <th>Skill Set</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Mobile App 1</td>
-          <td>iOS</td>
-          <td>Swift, Xcode</td>
-        </tr>
-        <tr>
-          <td>Mobile App 2</td>
-          <td>Android</td>
-          <td>Java, Android Studio</td>
-        </tr>
-        <!-- Add more rows as needed -->
-      </tbody>
-    </table>
-</div> 
+## Data Science Projects
 
+| Project Name | Category | Skill Set |
+|--------------|----------|-----------|
+| Data Analysis Project 1 | Analysis | Python, Pandas |
+| Machine Learning Model 1 | Machine Learning | Python, Scikit-Learn |
+
+## Mobile Development Projects
+
+| Project Name | Category | Skill Set |
+|--------------|----------|-----------|
+| Mobile App 1 | iOS | Swift, Xcode |
+| Mobile App 2 | Android | Java, Android Studio |
 #
 
 <table align="center">
