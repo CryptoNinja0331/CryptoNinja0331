@@ -164,7 +164,7 @@
 
 | No | Project Name | Skill Set |
 |----|--------------| -----------|
-| 1  | NovmuserAI Platform (https://github.com/CryptoNinja0331/NovmuserAIFE) (https://github.com/CryptoNinja0331/NovmuserAIUI) (https://github.com/CryptoNinja0331/NovmuserAIBackend)| ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Python](https://skillicons.dev/icons?i=python) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
+| 1  | NovmuserAI Platform (https://github.com/CryptoNinja0331/NovmuserAIFE) (https://github.com/CryptoNinja0331/NovmuserAIUI) (https://github.com/CryptoNinja0331/NovmuserAIBackend)| ![Next](https://skillicons.dev/icons?i=next) ![Python](https://skillicons.dev/icons?i=python) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
 | 1  | Tusima zkBridge On-chain Light Client (https://github.com/CryptoNinja0331/Tusima_bridge) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 | 2  | Solidity Contracts (https://github.com/CryptoNinja0331/Solidity_contracts)| ![Solidity](https://skillicons.dev/icons?i=solidity) |
 | 3  | DeFi-Yield-Farming-Dapp (https://github.com/CryptoNinja0331/DeFi-Yield-Farming-Dapp) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
