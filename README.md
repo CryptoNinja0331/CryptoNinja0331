@@ -1,6 +1,8 @@
 # <div align="center">💫 Full Stack | Blockchain | Generative AI Developer 💫 &nbsp;</div>
 
-## My Skill Set
+<div align="center"> 
+  <h1>My Skill Set</h1>
+</div>
 
 <table align="center">
   <tr>
