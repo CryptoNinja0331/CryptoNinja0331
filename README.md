@@ -178,7 +178,7 @@
 | No | Project Name | Skill Set |
 |----|--------------| -----------|
 | 1  | NovmuserAI Frontend (https://github.com/CryptoNinja0331/NovmuserAIUI) | ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
-| 2  | NovmuserAI Backend (https://github.com/CryptoNinja0331/NovmuserAIBackend) | ![Python](https://skillicons.dev/icons?i=next) ![FastAPI](https://skillicons.dev/icons?i=fastapi) |
+| 2  | NovmuserAI Backend (https://github.com/CryptoNinja0331/NovmuserAIBackend) | ![Python](https://skillicons.dev/icons?i=python) ![FastAPI](https://skillicons.dev/icons?i=fastapi) |
 | 3  | NovmuserAI Landing (https://github.com/CryptoNinja0331/NovmuserAIFE) | ![Next](https://skillicons.dev/icons?i=next) ![TypeScript](https://skillicons.dev/icons?i=python) ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss) |
 | 4  | Multiple PDFs Streamlit Web App (https://github.com/CryptoNinja0331/S-Multi-PDF-Chatbot) | ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django) |
 | 5  | IX Platform  (https://github.com/CryptoNinja0331/ix)| ![TypeScript](https://skillicons.dev/icons?i=typescript)  ![Python](https://skillicons.dev/icons?i=python) ![Docker](https://skillicons.dev/icons?i=docker)  |
