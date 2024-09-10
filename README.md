@@ -172,13 +172,16 @@
 | No | Project Name | Skill Set |
 |----|--------------| -----------|
 | 1  | Solana Trading Bot (https://github.com/CryptoNinja0331/Sol-Trade) | ![Python](https://skillicons.dev/icons?i=python)|
-| 1  | Tusima zkBridge On-chain Light Client (https://github.com/CryptoNinja0331/Tusima_bridge) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
-| 2  | Solidity Contracts (https://github.com/CryptoNinja0331/Solidity_contracts)| ![Solidity](https://skillicons.dev/icons?i=solidity) |
-| 3  | DeFi-Yield-Farming-Dapp (https://github.com/CryptoNinja0331/DeFi-Yield-Farming-Dapp) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
-| 4  | Bors (https://github.com/CryptoNinja0331/Rust_bors) | ![Rust](https://skillicons.dev/icons?i=rust) |
-| 5  | Trading Platform - Ollo Station (https://github.com/CryptoNinja0331/Ollo_station) | ![Go](https://skillicons.dev/icons?i=go) ![Javascipt](https://skillicons.dev/icons?i=javascript) ![Docker](https://skillicons.dev/icons?i=docker)|
-| 6  | x509-forest-of-trust (https://github.com/CryptoNinja0331/Contract_x509) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
-| 7 | Chicken Game (P2E) (https://github.com/CryptoNinja0331/chicken-game) | ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| 2  | Solana Market Maker (https://github.com/CryptoNinja0331/Solana-Market-Maker) | ![TypeScript](https://skillicons.dev/icons?i=typescript)|
+| 3  | Pump.fun Solana Trading Bot (https://github.com/CryptoNinja0331/Pump-Fun-Solana-Trading-Bot) | ![JavaScript](https://skillicons.dev/icons?i=javascript)|
+| 4  | Solana Trading Bot (https://github.com/CryptoNinja0331/Sol-Trade) | ![Python](https://skillicons.dev/icons?i=python)|
+| 5  | Tusima zkBridge On-chain Light Client (https://github.com/CryptoNinja0331/Tusima_bridge) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| 6  | Solidity Contracts (https://github.com/CryptoNinja0331/Solidity_contracts)| ![Solidity](https://skillicons.dev/icons?i=solidity) |
+| 7  | DeFi-Yield-Farming-Dapp (https://github.com/CryptoNinja0331/DeFi-Yield-Farming-Dapp) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
+| 8  | Bors (https://github.com/CryptoNinja0331/Rust_bors) | ![Rust](https://skillicons.dev/icons?i=rust) |
+| 9  | Trading Platform - Ollo Station (https://github.com/CryptoNinja0331/Ollo_station) | ![Go](https://skillicons.dev/icons?i=go) ![Javascipt](https://skillicons.dev/icons?i=javascript) ![Docker](https://skillicons.dev/icons?i=docker)|
+| 10  | x509-forest-of-trust (https://github.com/CryptoNinja0331/Contract_x509) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| 11 | Chicken Game (P2E) (https://github.com/CryptoNinja0331/chicken-game) | ![React](https://skillicons.dev/icons?i=react) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 
 
 ## Generative AI Projects
