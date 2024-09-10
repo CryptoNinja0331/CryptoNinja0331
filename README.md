@@ -164,6 +164,7 @@
 
 | No | Project Name | Skill Set |
 |----|--------------| -----------|
+| 1  | Solana Trading Bot (https://github.com/CryptoNinja0331/Sol-Trade) | ![Python](https://skillicons.dev/icons?i=python)|
 | 1  | Tusima zkBridge On-chain Light Client (https://github.com/CryptoNinja0331/Tusima_bridge) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 | 2  | Solidity Contracts (https://github.com/CryptoNinja0331/Solidity_contracts)| ![Solidity](https://skillicons.dev/icons?i=solidity) |
 | 3  | DeFi-Yield-Farming-Dapp (https://github.com/CryptoNinja0331/DeFi-Yield-Farming-Dapp) | ![Solidity](https://skillicons.dev/icons?i=solidity) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Python](https://skillicons.dev/icons?i=python) |
