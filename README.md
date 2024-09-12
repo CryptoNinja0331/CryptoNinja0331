@@ -1,4 +1,4 @@
-# <div align="center">💫 Full Stack | Blockchain | Generative AI Developer 💫 &nbsp;</div>
+# <div align="center">💫 Full Stack + Blockchain + Generative AI Developer | DevOps Engineer 💫 &nbsp;</div>
 
 <div align="center"> 
   <h1>My Skill Set</h1>
